@@ -1,4 +1,4 @@
-scikit-surpris
+scikit-surpris==1.1.4
 scikit-learn
 pandas
- 
+numpy==1.26.4
